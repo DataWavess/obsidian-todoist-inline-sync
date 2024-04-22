@@ -1,0 +1,9 @@
+.vscode
+__pycache__
+__pycache__/*
+env/*
+env
+test_vault
+slim_vault
+*.json
+user_variables.py
